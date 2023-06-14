@@ -120,7 +120,7 @@ params:
     intro: "Hello ! Glad to see you, my name is"
     title: "Tancrede."
     subtitle: "I build things using the data."
-    content: "I am a passionate machine learning developer. I tend to build project that can help better mastering my knowledge. \n I also love generative art, reading books and sports !"
+    content: "I am a passionate machine learning developer who love the way data can tell us stories. \n Trying to build project that can help better mastering my knowledge. \n I also love generative art 🖼️, reading books 📚 and sports 🏋️‍♂️ !"
     image: /images/hero.svg
     bottomImage:
       enable: true
