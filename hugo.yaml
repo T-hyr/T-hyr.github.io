@@ -117,10 +117,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: "Hello ! Glad to see you, my name is"
+    title: "Tancrede."
+    subtitle: "I build things using the data."
+    content: "I am a passionate machine learning developer. I tend to build project that can help better mastering my knowledge. \n I also love generative art, reading books and sports !"
     image: /images/hero.svg
     bottomImage:
       enable: true
