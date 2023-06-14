@@ -120,8 +120,7 @@ params:
     intro: "Hello ! Glad to see you, my name is"
     title: "Tancrede."
     subtitle: "I build things using the data."
-    content: "I am a passionate machine learning developer who love the way data can tell us stories. Trying to build project that can help better mastering my knowledge."
-    content: "I also love generative art 🖼️, reading books 📚 and sports 🏋️‍♂️ !"
+    content: "This site is a place where I can share the projects I carry out in my spare time.."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -148,7 +147,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a passionate machine learning developer who love the way data can tell us stories. Trying to build project that can help better mastering my knowledge.
+
+      I also love generative art 🖼️, reading books 📚 and sports 🏋️‍♂️ !"
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
