@@ -56,7 +56,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "themes/hugo-profile/images/MyMe.png"
+  favicon: "themes/hugo-profile/images"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -121,7 +121,7 @@ params:
     title: "Tancrede."
     subtitle: "I build things using the data."
     content: "This site is a place where I can share the projects I carry out in my spare time.."
-    image: https://github.com/T-hyr/T-hyr.github.io/tree/main/themes/hugo-profile/images/MyMe.png
+    image: /MyMe.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "https://github.com/T-hyr/T-hyr.github.io/tree/main/themes/hugo-profile/images/MyMe.png"
+    image: "/MyMe.png"
     content: |-
       I am a passionate machine learning developer who loves the way data can tell us stories. Trying to build project that can help better mastering my knowledge.
 
