@@ -234,65 +234,65 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: Specialized / Advanced Master in Artificial Intelligence
+      - title: "Specialized / Advanced Master in Artificial Intelligence"
         school:
           name: "Telecom Paris, Paris"
         date: "2021 - 2022"
-        content: |
-          Fundamentals of Artificial Intelligence :
-              ◾ Ethics and Professional Conduct in Artificial Intelligence 
-              ◾ Logic and Symbolic Artificial Intelligence 
-              ◾ Statistics 
-              ◾ Probabilistic Graphical Models 
-              ◾ Fundamentals of Statistical Learning
-              ◾ Signal Processing 
+        content: |-
+                  Fundamentals of Artificial Intelligence 
+                      ◾ Ethics and Professional Conduct in Artificial Intelligence 
+                      ◾ Logic and Symbolic Artificial Intelligence 
+                      ◾ Statistics 
+                      ◾ Probabilistic Graphical Models 
+                      ◾ Fundamentals of Statistical Learning
+                      ◾ Signal Processing 
 
-          Learning and Optimization for AI : 
-              ◾ Deep Learning 
-              ◾ Large Scale Statistical Learning 
-              ◾ Reinforcement Learning 
-              ◾ Learning for Robotics 
-              ◾ GPGPU Programming for Learning 
+                  Learning and Optimization for AI  
+                      ◾ Deep Learning 
+                      ◾ Large Scale Statistical Learning 
+                      ◾ Reinforcement Learning 
+                      ◾ Learning for Robotics 
+                      ◾ GPGPU Programming for Learning 
 
-          Artificial Intelligence in Interaction :
-              ◾ Automatic Language Processing 
-              ◾ Learning for Image and Object Recognition 
-              ◾ Perception for Autonomous Systems 
+                  Artificial Intelligence in Interaction 
+                      ◾ Automatic Language Processing 
+                      ◾ Learning for Image and Object Recognition 
+                      ◾ Perception for Autonomous Systems 
 
-          Real-world Case Studies :
-              ◾ Personal Development and Internship Research Techniques 
-              ◾ Red Thread Project 
-              ◾ Scientific and Industrial Seminars
+                  Real-world Case Studies 
+                      ◾ Personal Development and Internship Research Techniques 
+                      ◾ Red Thread Project 
+                      ◾ Scientific and Industrial Seminars
 
 
-      - title: Master's Degree, Entrepreneurship
+      - title: "Master's Degree, Entrepreneurship"
         school:
           name: "NEOMA Business School"
         date: "2018 - 2019"
-        content: |
-          Double degree at NEOMA business school
+        content: |-
+                  Double degree at NEOMA business school
 
-          Triple Accréditation : EQUIS, AMBA, AACSB
+                  Triple Accréditation : EQUIS, AMBA, AACSB
 
-              ▪ Project Management
-              ▪ Finance
-              ▪ Marketing
-              ▪ Law
-              ▪ POC (Proof of concept)
+                      ▪ Project Management
+                      ▪ Finance
+                      ▪ Marketing
+                      ▪ Law
+                      ▪ POC (Proof of concept)
 
-      - title: Engineer's Degree, 
+      - title: "Engineer's Degree," 
         school:
           name: "ESIGELEC"
         date: "2016 - 2019"
-        content: |
-        Trained as an engineer in computer science and embedded systems.
+        content: |-
+                  Trained as an engineer in computer science and embedded systems.
 
-              ▪ Neural Network
-              ▪ Signal Processing
-              ▪ Robotic
-              ▪ Real time Operating Systems
-              ▪ Microcontrollers
-              ▪ Embedded CommunicationTrained
+                        ▪ Neural Network
+                        ▪ Signal Processing
+                        ▪ Robotic
+                        ▪ Real time Operating Systems
+                        ▪ Microcontrollers
+                        ▪ Embedded CommunicationTrained
 
   # Achievements
   achievements:
