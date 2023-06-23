@@ -14,7 +14,6 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-canonifyURLs: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
 
@@ -122,7 +121,7 @@ params:
     title: "Tancrede."
     subtitle: "I build things using the data."
     content: "This site is a place where I can share the projects I carry out in my spare time.."
-    image: /images/MyMe.png
+    image: https://github.com/T-hyr/T-hyr.github.io/tree/main/themes/hugo-profile/images/MyMe.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -146,7 +145,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "https://github.com/T-hyr/T-hyr.github.io/tree/main/themes/hugo-profile/images/MyMe.png"
     content: |-
       I am a passionate machine learning developer who loves the way data can tell us stories. Trying to build project that can help better mastering my knowledge.
 
