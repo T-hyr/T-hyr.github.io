@@ -174,58 +174,46 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a machine learning developer at TotalEnergies in Paris. I am currently working on a project that will be used to help people optimise their energy consumption by controlling the elements in their home. \n
-                  Previously I was in charge of production forecasting algorithms for different renewable energy sources (solar and wind)."
+        content: |-
+              Context: Within TotalEnergies' French subsidiary, in the OneTech branch in charge of the Group's research, I am involved in the research and automation of processes used by the various teams linked to the Group's renewable energies. These processes are based on the use of aggregated internal TotalEnergies data, and sometimes external public or private data, to meet the needs of the business teams.
+              
+              Objective: To research and test new approaches to help the business lines improve the reliability and performance of their operating processes. To be a source of ideas for the business, demonstrating the power of data to optimise and improve processes. Working on data exploration, analysis and features engineering, with presentations to the business teams. Development of machine learning and deep learning models.
+              
+              Project 1: Short-term (5 min) and mid-term (15 days) forecasting of electricity production from offshore wind turbines using Lidar and meteorological data (Stacking, Transformer, CNN, RNN/LSTM, XGBoost and LGBM). Improvement of 20% on average compared with existing approaches.
+              
+              Project 2: Long-term forecasting (3 days) for photovoltaic production. Use of local meteorological data and time series data. 
+              
+              Project 3: Optimisation of energy consumption in homes, with savings of up to 40% in terms of expenditure and cost. Taking into account the thermal comfort of residents and the price of energy.
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Consultant Ingénieur Data"
+        company: "Bouygues"
+        date: "Jun 2021 - Aug 2022"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          content: As a consultant, my job is to help migrate the group's databases from HDFS to S3.
+        content: My objective is to rewrite and optimise databases. Switching from SQL to Spark.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Machine Learning Engineer"
+        company: "SES"
+        date: "Jun 2019 - Dec 2019"
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |-
+                End-of-studies internship aimed at developing my language skills and engineering abilities by going abroad.
+                
+                Objective: To improve the company's performance, the directors wanted to create a new entity dedicated to exploring data science solutions. This involved convincing the business units of the added value of our approach and presenting prototypes.
+                
+                Project 1: Creation of a labelled database of the company's contracts, i.e. 100 contracts. Then, from this, develop an API to automate the creation of contracts internally using Natural Language Processing techniques. 
+                
+                Project 2: Use of machine learning for predictive satellite maintenance. 
+                
+                Project 3: Anticipation and detection of fraud and payment anomalies amounting to €2 million.
 
   # Education
   education:
