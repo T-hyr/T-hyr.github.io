@@ -234,7 +234,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Specialized / Advanced Master in Artificial Intelligence"
+      - title: Specialized / Advanced Master in Artificial Intelligence
         school:
           name: "Telecom Paris, Paris"
         date: "2021 - 2022"
@@ -265,7 +265,7 @@ params:
               ◾ Scientific and Industrial Seminars
 
 
-      - title: "Master's Degree, Entrepreneurship"
+      - title: Master's Degree, Entrepreneurship
         school:
           name: "NEOMA Business School"
         date: "2018 - 2019"
@@ -280,13 +280,13 @@ params:
               ▪ Law
               ▪ POC (Proof of concept)
 
-      - title: "Engineer's Degree, "
+      - title: Engineer's Degree, 
         school:
           name: "ESIGELEC"
         date: "2016 - 2019"
         content: |- 
         Trained as an engineer in computer science and embedded systems.
-        
+
               ▪ Neural Network
               ▪ Signal Processing
               ▪ Robotic
