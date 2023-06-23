@@ -194,7 +194,7 @@ params:
         info:
           enable: true
           content: As a consultant, my job is to help migrate the group's databases from HDFS to S3.
-        content: My objective is to rewrite and optimise databases. Switching from SQL to Spark.
+        content: "Objective: Rewrite and optimise databases. Switching from SQL to Spark."
 
       - job: "Machine Learning Engineer"
         company: "SES"
