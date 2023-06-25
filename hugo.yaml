@@ -194,7 +194,7 @@ params:
         info:
           enable: true
           content: As a consultant, my job is to help migrate the group's databases from HDFS to S3.
-        content: "Objective: Rewrite and optimise databases. Switching from SQL to Spark."
+        content: "As a consultant, my job is to help migrate the group's databases from HDFS to S3. \n Objective: Rewrite and optimise databases. Switching from SQL to Spark."
 
       - job: "Machine Learning Engineer"
         company: "SES"
@@ -306,28 +306,28 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: CycleGAN for domain adaptation
+        content: |-
+                Use of the cycleGAN architecture for domain adaptation to create synthetic data from other datasets.
+        
+                Once the transfer has been completed, the new data is used to drive a new network.
+        image: /images/cycleGAN.png
         featured:
+          enable: false
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Cycle Generative Adversarial Network"
+          - "CNN"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/T-hyr/CycleGan-for-domain-adaptation
 
       - title: Image Converter
+        enable: false
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
         image: /images/projects/converter.jpg
         featured:
@@ -341,6 +341,7 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: Hugo Profile V2
+        enable: false
         content: A clean and simple Hugo template for personal portfolio and blog.
         image: /images/projects/profile2.jpg
         featured:
