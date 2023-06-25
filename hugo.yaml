@@ -316,9 +316,8 @@ params:
                 Once the transfer has been completed, the new data is used to drive a new network.
         image: /images/cycleGAN.png
         featured:
-          enable: false
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://github.com/T-hyr/CycleGan-for-domain-adaptation/blob/main/Projet%20CycleGan%20Final/CycleGan_model_train/mnisttosvhn.ipynb
         badges:
           - "Cycle Generative Adversarial Network"
           - "CNN"
@@ -326,34 +325,34 @@ params:
           - icon: fab fa-github
             url: https://github.com/T-hyr/CycleGan-for-domain-adaptation
 
-      - title: Image Converter
-        enable: false
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+      # - title: Image Converter
+      #   enable: false
+      #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      #   image: /images/projects/converter.jpg
+      #   featured:
+      #     name: Demo
+      #     link: https://django-converter.herokuapp.com
+      #   badges:
+      #     - "Django"
+      #     - "Bootstrap"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/gurusabarish/converter
 
-      - title: Hugo Profile V2
-        enable: false
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+      # - title: Hugo Profile V2
+      #   enable: false
+      #   content: A clean and simple Hugo template for personal portfolio and blog.
+      #   image: /images/projects/profile2.jpg
+      #   featured:
+      #     name: Demo V2
+      #     link: https://hugo-profile-2.netlify.app
+      #   badges:
+      #     - "Hugo"
+      #     - "Bootstrap"
+      #     - "Javascript"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
