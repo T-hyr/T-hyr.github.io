@@ -126,7 +126,7 @@ params:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
@@ -137,9 +137,9 @@ params:
           url: https://github.com/T-hyr
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/tancrede-hayer/
-      customIcons:
-        - icon: /images/robot.png
-          url: "https://example.com"
+      # customIcons:
+      #   - icon: /images/robot.png
+      #     url: "https://example.com"
 
   # About
   about:
