@@ -325,19 +325,19 @@ params:
           - icon: fab fa-github
             url: https://github.com/T-hyr/CycleGan-for-domain-adaptation
 
-      # - title: Image Converter
-      #   enable: false
-      #   content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-      #   image: /images/projects/converter.jpg
-      #   featured:
-      #     name: Demo
-      #     link: https://django-converter.herokuapp.com
-      #   badges:
-      #     - "Django"
-      #     - "Bootstrap"
-      #   links:
-      #     - icon: fab fa-github
-      #       url: https://github.com/gurusabarish/converter
+      - title: Kolmogorov for face recognition
+        enable: false
+        content: |-
+              Face classification based on Kolmogorov complexity - Using Kolmogorov complexity to detect similar faces by measuring the normalized compression distance (NCD) between two images.
+
+              The complexity is approximated by the number of bits required to compress the object using a specific compressor.
+        image: /images/Kolmogorov.png
+        badges:
+          - "Kolmogorov complexity"
+          - "Information theory"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/T-hyr/Kolmogorov-et-detection-du-visage-
 
       # - title: Hugo Profile V2
       #   enable: false
