@@ -126,9 +126,9 @@ params:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: false
-      name: "Resume"
-      url: "#"
+      enable: true
+      name: "My (french) YouTube Channel"
+      url: https://www.youtube.com/@essience
       download: true
       newPage: false
     socialLinks:
