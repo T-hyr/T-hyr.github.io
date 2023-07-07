@@ -149,7 +149,7 @@ params:
     content: |-
       I am a passionate machine learning developer who loves the way data can tell us stories. 
       
-      Trying to build project that can help better mastering my knowledge.
+      Trying to build projects that can help better mastering my knowledge.
 
       I also love generative art 🖼️, reading books 📚 and sports 🏋️‍♂️ !"
 
@@ -169,7 +169,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Recherche engineer machine learning"
+      - job: "Research Engineer Machine Learning"
         company: "TotalEnergies"
         date: "Juil 2022 - present"
         featuredLink:
@@ -187,7 +187,7 @@ params:
               
               Project 3: Optimisation of energy consumption in homes, with savings of up to 40% in terms of expenditure and cost. Taking into account the thermal comfort of residents and the price of energy.
 
-      - job: "Consultant Ingénieur Data"
+      - job: "Data Engineer Consultant"
         company: "Bouygues"
         date: "Jun 2021 - Aug 2022"
         featuredLink:
