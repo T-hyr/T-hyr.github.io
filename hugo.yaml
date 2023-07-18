@@ -169,7 +169,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Research Engineer Machine Learning"
+      - job: "Research Machine Learning Engineer"
         company: "TotalEnergies"
         date: "Juil 2022 - present"
         featuredLink:
@@ -195,8 +195,12 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: As a consultant, my job is to help migrate the group's databases from HDFS to S3.
-        content: "As a consultant, my job is to help migrate the group's databases from HDFS to S3. \n Objective: Rewrite and optimise databases. Switching from SQL to Spark."
+          content: As a consultant, my job was to help migrate the group's databases from HDFS to S3.
+        content: |-
+        
+              Context: As a consultant, my job was to help migrate the group's databases from HDFS to S3. 
+        
+              Objective: Rewrite and optimise databases. Switching from SQL to Spark.
 
       - job: "Machine Learning Engineer"
         company: "SES"
@@ -269,9 +273,10 @@ params:
 
                       ▪ Project Management
                       ▪ Finance
-                      ▪ Marketing
+                      ▪ Leadership
+                      ▪ Marketing 
                       ▪ Law
-                      ▪ POC (Proof of concept)
+                      ▪ Innovation in companies
 
       - title: "Engineer's Degree," 
         school:
@@ -309,7 +314,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "CycleGan"
+    title: "Projects"
     items:
       - title: CycleGAN for domain adaptation
         content: |-
