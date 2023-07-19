@@ -225,7 +225,7 @@ params:
   education:
     enable: true
     # title: "Custom Name"
-    index: false
+    index: true
     items:
       - title: "Specialized / Advanced Master in Artificial Intelligence"
         school:
