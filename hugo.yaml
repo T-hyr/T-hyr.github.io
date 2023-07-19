@@ -197,10 +197,9 @@ params:
           enable: true
           content: As a consultant, my job was to help migrate the group's databases from HDFS to S3.
         content: |-
-        
-              Context: As a consultant, my job was to help migrate the group's databases from HDFS to S3. 
-        
-              Objective: Rewrite and optimise databases. Switching from SQL to Spark.
+                  Context: As a consultant, my job was to help migrate the group's databases from HDFS to S3. 
+            
+                  Objective: Rewrite and optimise databases. Switching from SQL to Spark.
 
       - job: "Machine Learning Engineer"
         company: "SES"
@@ -211,15 +210,15 @@ params:
           enable: false
           url: "https://example.com"
         content: |-
-                End-of-studies internship aimed at developing my language skills and engineering abilities by going abroad.
-                
-                Objective: To improve the company's performance, the directors wanted to create a new entity dedicated to exploring data science solutions. This involved convincing the business units of the added value of our approach and presenting prototypes.
-                
-                Project 1: Creation of a labelled database of the company's contracts, i.e. 100 contracts. Then, from this, develop an API to automate the creation of contracts internally using Natural Language Processing techniques. 
-                
-                Project 2: Use of machine learning for predictive satellite maintenance. 
-                
-                Project 3: Anticipation and detection of fraud and payment anomalies amounting to €2 million.
+                  End-of-studies internship aimed at developing my language skills and engineering abilities by going abroad.
+                  
+                  Objective: To improve the company's performance, the directors wanted to create a new entity dedicated to exploring data science solutions. This involved convincing the business units of the added value of our approach and presenting prototypes.
+                  
+                  Project 1: Creation of a labelled database of the company's contracts, i.e. 100 contracts. Then, from this, develop an API to automate the creation of contracts internally using Natural Language Processing techniques. 
+                  
+                  Project 2: Use of machine learning for predictive satellite maintenance. 
+                  
+                  Project 3: Anticipation and detection of fraud and payment anomalies amounting to €2 million.
 
   # Education
   education:
